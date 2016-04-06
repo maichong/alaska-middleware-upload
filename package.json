@@ -1,0 +1,27 @@
+{
+  "name": "alaska-upload",
+  "version": "0.1.0",
+  "description": "Alaska upload middleware",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maichong/alaska-upload.git"
+  },
+  "author": {
+    "email": "liang@maichong.it",
+    "name": "liang",
+    "url": "https://github.com/liangxingchen"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maichong/alaska-upload/issues"
+  },
+  "homepage": "https://github.com/maichong/alaska-upload#readme",
+  "peerDependencies": {
+    "alaska": "^0.7.0"
+  },
+  "dependencies": {
+    "async-busboy": "0.0.4"
+  }
+}
