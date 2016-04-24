@@ -1,2 +1,2 @@
-# alaska-upload
+# alaska-middleware-upload
 Alaska upload middleware
